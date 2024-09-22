@@ -1,0 +1,17 @@
+.odd-numbered-elements {
+    background-color: #f16666;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.small-font-size {
+    font-size: 24px;
+}
+
+#second-element {
+    color: #0000ff;
+    font-size: 36px;
+}
+#fourth-element {
+    font-size: 24px;
+    background-color: #69e069;
+    font-weight: bold;
+}
